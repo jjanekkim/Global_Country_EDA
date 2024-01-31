@@ -7,7 +7,6 @@ This repository includes the Jupyter Notebook for the exploratory data analysis 
 * [About](#about)
 * [Dependencies](#dependencies)
 * [Project Structure](#project-structure)
-* [Utilization](#utilization)
 
 ## About
 This project was undertaken as part of the Women Who Code Days of Kaggle Challenge, where participants were tasked with selecting a dataset categorized as beginner, intermediate, or advanced. I opted for an intermediate dataset sourced from Kaggle.
